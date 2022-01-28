@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1,
+        "title": "Ceará",
+        "quant_day": 3,
+        "price": "1.800,00",
+        "location": "Praia Canoa Quebrada",
+    },
+    
+    {
+        "id": 2,
+        "title": "Rio de Janeiro",
+        "quant_day": 6,
+        "price": "1.200,00",
+        "location": "Copacabana",
+    },
+    
+    {
+        "id": 3,
+        "title": "Cancún",
+        "quant_day": 10,
+        "price": "6.800,00",
+        "location": "Quintana Roo",
+    }
+]
